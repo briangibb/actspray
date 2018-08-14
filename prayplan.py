@@ -3,7 +3,7 @@
 import random
 
 studentenK = ["Brian Ceccato","Tobias Wyss","Jael Kaeser","Naemi Hari","Mathias Inniger","Mireille Wettstein","Marc Wettstein"]
-studentenV = ["Sabrina Cookman","Vanessa Batifu","Bettina Willen","Deborah Hersche","Pascal Schaedeli","Stephan Walz","Benjamin Willen","Milena Kuhlmann","Renate Stucki","Kerstin Perren","Andrina Isliker","Julia Baumann","Salomon Hersche"]
+studentenV = ["Sabrina Cookman","Vanessa Baftiu","Bettina Willen","Deborah Hersche","Pascal Schaedeli","Stephan Walz","Benjamin Willen","Milena Kuhlmann","Renate Stucki","Kerstin Perren","Andrina Isliker","Julia Baumann","Salomon Hersche"]
 
 for kalenderwoche in range(33, 53):
 
