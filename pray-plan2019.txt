@@ -1,0 +1,249 @@
+-----Gebetsplan fuer Woche 3 - 17.01.2019-----
+23:00 - 00:00 | Bettina Willen / Benjamin Willen
+00:00 - 01:00 | Renate Stucki / Julia Baumann / Kerstin Perren
+01:00 - 02:00 | Marc Wettstein / Naemi Hari
+02:00 - 03:00 | Salomon Hersche / Deborah Hersche
+03:00 - 04:00 | Mireille Wettstein / Mathias Inniger / Sabrina Cookman
+04:00 - 05:00 | Pascal Schaedeli / Stephan Walz
+05:00 - 06:00 | Tobias Wyss / Jael Kaeser
+06:00 - 07:00 | Andrina Isliker / Milena Kuhlmann / Vanessa Baftiu
+
+-----Gebetsplan fuer Woche 4 - 24.01.2019-----
+23:00 - 00:00 | Bettina Willen / Andrina Isliker
+00:00 - 01:00 | Benjamin Willen / Deborah Hersche
+01:00 - 02:00 | Mathias Inniger / Mireille Wettstein
+02:00 - 03:00 | Stephan Walz / Julia Baumann / Renate Stucki
+03:00 - 04:00 | Milena Kuhlmann / Vanessa Baftiu
+04:00 - 05:00 | Kerstin Perren / Pascal Schaedeli / Salomon Hersche
+05:00 - 06:00 | Marc Wettstein / Naemi Hari / Sabrina Cookman
+06:00 - 07:00 | Tobias Wyss / Jael Kaeser
+
+-----Gebetsplan fuer Woche 5 - 31.01.2019-----
+23:00 - 00:00 | Bettina Willen / Benjamin Willen
+00:00 - 01:00 | Pascal Schaedeli / Salomon Hersche / Vanessa Baftiu
+01:00 - 02:00 | Andrina Isliker / Renate Stucki / Stephan Walz
+02:00 - 03:00 | Deborah Hersche / Kerstin Perren
+03:00 - 04:00 | Tobias Wyss / Marc Wettstein
+04:00 - 05:00 | Mireille Wettstein / Naemi Hari / Jael Kaeser
+05:00 - 06:00 | Milena Kuhlmann / Julia Baumann
+06:00 - 07:00 | Mathias Inniger / Sabrina Cookman
+
+-----Gebetsplan fuer Woche 6 - 07.02.2019-----
+23:00 - 00:00 | Bettina Willen / Benjamin Willen
+00:00 - 01:00 | Milena Kuhlmann / Salomon Hersche
+01:00 - 02:00 | Renate Stucki / Kerstin Perren
+02:00 - 03:00 | Naemi Hari / Jael Kaeser
+03:00 - 04:00 | Stephan Walz / Andrina Isliker / Pascal Schaedeli
+04:00 - 05:00 | Mathias Inniger / Tobias Wyss / Marc Wettstein
+05:00 - 06:00 | Sabrina Cookman / Mireille Wettstein
+06:00 - 07:00 | Julia Baumann / Deborah Hersche / Vanessa Baftiu
+
+-----Gebetsplan fuer Woche 7 - 14.02.2019-----
+23:00 - 00:00 | Bettina Willen / Julia Baumann
+00:00 - 01:00 | Renate Stucki / Pascal Schaedeli
+01:00 - 02:00 | Sabrina Cookman / Mireille Wettstein
+02:00 - 03:00 | Vanessa Baftiu / Kerstin Perren / Milena Kuhlmann
+03:00 - 04:00 | Jael Kaeser / Marc Wettstein / Mathias Inniger
+04:00 - 05:00 | Stephan Walz / Salomon Hersche / Deborah Hersche
+05:00 - 06:00 | Benjamin Willen / Andrina Isliker
+06:00 - 07:00 | Tobias Wyss / Naemi Hari
+
+-----Gebetsplan fuer Woche 8 - 21.02.2019-----
+23:00 - 00:00 | Bettina Willen / Salomon Hersche
+00:00 - 01:00 | Deborah Hersche / Julia Baumann
+01:00 - 02:00 | Marc Wettstein / Naemi Hari
+02:00 - 03:00 | Milena Kuhlmann / Renate Stucki / Kerstin Perren
+03:00 - 04:00 | Mireille Wettstein / Jael Kaeser
+04:00 - 05:00 | Mathias Inniger / Tobias Wyss / Sabrina Cookman
+05:00 - 06:00 | Pascal Schaedeli / Andrina Isliker
+06:00 - 07:00 | Benjamin Willen / Stephan Walz / Vanessa Baftiu
+
+-----Gebetsplan fuer Woche 9 - 28.02.2019-----
+23:00 - 00:00 | Bettina Willen / Milena Kuhlmann
+00:00 - 01:00 | Deborah Hersche / Vanessa Baftiu
+01:00 - 02:00 | Mireille Wettstein / Sabrina Cookman
+02:00 - 03:00 | Marc Wettstein / Tobias Wyss
+03:00 - 04:00 | Benjamin Willen / Andrina Isliker
+04:00 - 05:00 | Stephan Walz / Pascal Schaedeli / Renate Stucki
+05:00 - 06:00 | Jael Kaeser / Naemi Hari / Mathias Inniger
+06:00 - 07:00 | Kerstin Perren / Julia Baumann / Salomon Hersche
+
+-----Gebetsplan fuer Woche 10 - 07.03.2019-----
+23:00 - 00:00 | Bettina Willen / Kerstin Perren
+00:00 - 01:00 | Julia Baumann / Milena Kuhlmann / Stephan Walz
+01:00 - 02:00 | Marc Wettstein / Mathias Inniger
+02:00 - 03:00 | Jael Kaeser / Mireille Wettstein / Sabrina Cookman
+03:00 - 04:00 | Renate Stucki / Vanessa Baftiu
+04:00 - 05:00 | Deborah Hersche / Pascal Schaedeli / Andrina Isliker
+05:00 - 06:00 | Benjamin Willen / Salomon Hersche
+06:00 - 07:00 | Naemi Hari / Tobias Wyss
+
+-----Gebetsplan fuer Woche 11 - 14.03.2019-----
+23:00 - 00:00 | Bettina Willen / Deborah Hersche
+00:00 - 01:00 | Andrina Isliker / Pascal Schaedeli / Kerstin Perren
+01:00 - 02:00 | Julia Baumann / Renate Stucki / Stephan Walz
+02:00 - 03:00 | Naemi Hari / Mireille Wettstein
+03:00 - 04:00 | Sabrina Cookman / Marc Wettstein / Mathias Inniger
+04:00 - 05:00 | Jael Kaeser / Tobias Wyss
+05:00 - 06:00 | Milena Kuhlmann / Benjamin Willen
+06:00 - 07:00 | Salomon Hersche / Vanessa Baftiu
+
+-----Gebetsplan fuer Woche 12 - 21.03.2019-----
+23:00 - 00:00 | Bettina Willen / Benjamin Willen
+00:00 - 01:00 | Mathias Inniger / Mireille Wettstein
+01:00 - 02:00 | Milena Kuhlmann / Andrina Isliker / Stephan Walz
+02:00 - 03:00 | Marc Wettstein / Naemi Hari
+03:00 - 04:00 | Julia Baumann / Vanessa Baftiu
+04:00 - 05:00 | Kerstin Perren / Pascal Schaedeli / Salomon Hersche
+05:00 - 06:00 | Jael Kaeser / Sabrina Cookman / Tobias Wyss
+06:00 - 07:00 | Renate Stucki / Deborah Hersche
+
+-----Gebetsplan fuer Woche 13 - 28.03.2019-----
+23:00 - 00:00 | Bettina Willen / Vanessa Baftiu
+00:00 - 01:00 | Mireille Wettstein / Naemi Hari
+01:00 - 02:00 | Stephan Walz / Salomon Hersche / Andrina Isliker
+02:00 - 03:00 | Milena Kuhlmann / Renate Stucki / Benjamin Willen
+03:00 - 04:00 | Julia Baumann / Kerstin Perren
+04:00 - 05:00 | Deborah Hersche / Pascal Schaedeli
+05:00 - 06:00 | Sabrina Cookman / Tobias Wyss / Jael Kaeser
+06:00 - 07:00 | Mathias Inniger / Marc Wettstein
+
+-----Gebetsplan fuer Woche 14 - 04.04.2019-----
+23:00 - 00:00 | Bettina Willen / Kerstin Perren
+00:00 - 01:00 | Andrina Isliker / Julia Baumann
+01:00 - 02:00 | Mathias Inniger / Sabrina Cookman / Marc Wettstein
+02:00 - 03:00 | Tobias Wyss / Jael Kaeser
+03:00 - 04:00 | Pascal Schaedeli / Deborah Hersche / Benjamin Willen
+04:00 - 05:00 | Vanessa Baftiu / Milena Kuhlmann / Stephan Walz
+05:00 - 06:00 | Renate Stucki / Salomon Hersche
+06:00 - 07:00 | Mireille Wettstein / Naemi Hari
+
+-----Gebetsplan fuer Woche 15 - 11.04.2019-----
+23:00 - 00:00 | Bettina Willen / Benjamin Willen
+00:00 - 01:00 | Marc Wettstein / Naemi Hari
+01:00 - 02:00 | Mireille Wettstein / Tobias Wyss / Jael Kaeser
+02:00 - 03:00 | Stephan Walz / Andrina Isliker
+03:00 - 04:00 | Renate Stucki / Kerstin Perren / Pascal Schaedeli
+04:00 - 05:00 | Mathias Inniger / Sabrina Cookman
+05:00 - 06:00 | Vanessa Baftiu / Julia Baumann
+06:00 - 07:00 | Milena Kuhlmann / Deborah Hersche / Salomon Hersche
+
+-----Gebetsplan fuer Woche 16 - 18.04.2019-----
+23:00 - 00:00 | Bettina Willen / Deborah Hersche
+00:00 - 01:00 | Pascal Schaedeli / Benjamin Willen / Julia Baumann
+01:00 - 02:00 | Mireille Wettstein / Marc Wettstein
+02:00 - 03:00 | Salomon Hersche / Stephan Walz
+03:00 - 04:00 | Kerstin Perren / Renate Stucki
+04:00 - 05:00 | Mathias Inniger / Jael Kaeser / Naemi Hari
+05:00 - 06:00 | Sabrina Cookman / Tobias Wyss
+06:00 - 07:00 | Milena Kuhlmann / Andrina Isliker / Vanessa Baftiu
+
+-----Gebetsplan fuer Woche 17 - 25.04.2019-----
+23:00 - 00:00 | Bettina Willen / Salomon Hersche
+00:00 - 01:00 | Marc Wettstein / Naemi Hari
+01:00 - 02:00 | Pascal Schaedeli / Stephan Walz / Deborah Hersche
+02:00 - 03:00 | Mireille Wettstein / Mathias Inniger
+03:00 - 04:00 | Benjamin Willen / Renate Stucki
+04:00 - 05:00 | Milena Kuhlmann / Andrina Isliker
+05:00 - 06:00 | Julia Baumann / Vanessa Baftiu / Kerstin Perren
+06:00 - 07:00 | Sabrina Cookman / Jael Kaeser / Tobias Wyss
+
+-----Gebetsplan fuer Woche 18 - 02.05.2019-----
+23:00 - 00:00 | Bettina Willen / Renate Stucki
+00:00 - 01:00 | Tobias Wyss / Sabrina Cookman / Mireille Wettstein
+01:00 - 02:00 | Andrina Isliker / Milena Kuhlmann / Stephan Walz
+02:00 - 03:00 | Marc Wettstein / Mathias Inniger
+03:00 - 04:00 | Kerstin Perren / Benjamin Willen
+04:00 - 05:00 | Deborah Hersche / Pascal Schaedeli / Salomon Hersche
+05:00 - 06:00 | Vanessa Baftiu / Julia Baumann
+06:00 - 07:00 | Naemi Hari / Jael Kaeser
+
+-----Gebetsplan fuer Woche 19 - 09.05.2019-----
+23:00 - 00:00 | Bettina Willen / Renate Stucki
+00:00 - 01:00 | Stephan Walz / Andrina Isliker
+01:00 - 02:00 | Jael Kaeser / Marc Wettstein
+02:00 - 03:00 | Vanessa Baftiu / Salomon Hersche / Benjamin Willen
+03:00 - 04:00 | Julia Baumann / Pascal Schaedeli / Kerstin Perren
+04:00 - 05:00 | Naemi Hari / Sabrina Cookman
+05:00 - 06:00 | Milena Kuhlmann / Deborah Hersche
+06:00 - 07:00 | Mireille Wettstein / Mathias Inniger / Tobias Wyss
+
+-----Gebetsplan fuer Woche 20 - 16.05.2019-----
+23:00 - 00:00 | Bettina Willen / Andrina Isliker
+00:00 - 01:00 | Mathias Inniger / Naemi Hari / Sabrina Cookman
+01:00 - 02:00 | Deborah Hersche / Julia Baumann
+02:00 - 03:00 | Marc Wettstein / Tobias Wyss
+03:00 - 04:00 | Benjamin Willen / Milena Kuhlmann / Salomon Hersche
+04:00 - 05:00 | Mireille Wettstein / Jael Kaeser
+05:00 - 06:00 | Stephan Walz / Kerstin Perren
+06:00 - 07:00 | Vanessa Baftiu / Renate Stucki / Pascal Schaedeli
+
+-----Gebetsplan fuer Woche 21 - 23.05.2019-----
+23:00 - 00:00 | Bettina Willen / Deborah Hersche
+00:00 - 01:00 | Marc Wettstein / Mathias Inniger / Mireille Wettstein
+01:00 - 02:00 | Julia Baumann / Pascal Schaedeli / Kerstin Perren
+02:00 - 03:00 | Stephan Walz / Andrina Isliker
+03:00 - 04:00 | Tobias Wyss / Sabrina Cookman
+04:00 - 05:00 | Jael Kaeser / Naemi Hari
+05:00 - 06:00 | Salomon Hersche / Vanessa Baftiu / Benjamin Willen
+06:00 - 07:00 | Milena Kuhlmann / Renate Stucki
+
+-----Gebetsplan fuer Woche 22 - 30.05.2019-----
+23:00 - 00:00 | Bettina Willen / Renate Stucki
+00:00 - 01:00 | Vanessa Baftiu / Kerstin Perren
+01:00 - 02:00 | Milena Kuhlmann / Julia Baumann / Salomon Hersche
+02:00 - 03:00 | Mireille Wettstein / Sabrina Cookman
+03:00 - 04:00 | Mathias Inniger / Tobias Wyss / Jael Kaeser
+04:00 - 05:00 | Pascal Schaedeli / Stephan Walz
+05:00 - 06:00 | Andrina Isliker / Deborah Hersche / Benjamin Willen
+06:00 - 07:00 | Naemi Hari / Marc Wettstein
+
+-----Gebetsplan fuer Woche 23 - 06.06.2019-----
+23:00 - 00:00 | Bettina Willen / Benjamin Willen
+00:00 - 01:00 | Sabrina Cookman / Jael Kaeser / Mathias Inniger
+01:00 - 02:00 | Stephan Walz / Vanessa Baftiu
+02:00 - 03:00 | Pascal Schaedeli / Kerstin Perren / Milena Kuhlmann
+03:00 - 04:00 | Andrina Isliker / Julia Baumann / Renate Stucki
+04:00 - 05:00 | Naemi Hari / Mireille Wettstein
+05:00 - 06:00 | Tobias Wyss / Marc Wettstein
+06:00 - 07:00 | Deborah Hersche / Salomon Hersche
+
+-----Gebetsplan fuer Woche 24 - 13.06.2019-----
+23:00 - 00:00 | Bettina Willen / Deborah Hersche
+00:00 - 01:00 | Mathias Inniger / Mireille Wettstein
+01:00 - 02:00 | Milena Kuhlmann / Stephan Walz
+02:00 - 03:00 | Benjamin Willen / Salomon Hersche / Pascal Schaedeli
+03:00 - 04:00 | Renate Stucki / Andrina Isliker / Kerstin Perren
+04:00 - 05:00 | Vanessa Baftiu / Julia Baumann
+05:00 - 06:00 | Jael Kaeser / Tobias Wyss
+06:00 - 07:00 | Naemi Hari / Sabrina Cookman / Marc Wettstein
+
+-----Gebetsplan fuer Woche 25 - 20.06.2019-----
+23:00 - 00:00 | Bettina Willen / Pascal Schaedeli
+00:00 - 01:00 | Jael Kaeser / Naemi Hari
+01:00 - 02:00 | Andrina Isliker / Renate Stucki / Deborah Hersche
+02:00 - 03:00 | Tobias Wyss / Mathias Inniger / Marc Wettstein
+03:00 - 04:00 | Stephan Walz / Benjamin Willen / Vanessa Baftiu
+04:00 - 05:00 | Kerstin Perren / Julia Baumann
+05:00 - 06:00 | Milena Kuhlmann / Salomon Hersche
+06:00 - 07:00 | Mireille Wettstein / Sabrina Cookman
+
+-----Gebetsplan fuer Woche 26 - 27.06.2019-----
+23:00 - 00:00 | Bettina Willen / Julia Baumann
+00:00 - 01:00 | Deborah Hersche / Vanessa Baftiu
+01:00 - 02:00 | Benjamin Willen / Pascal Schaedeli / Renate Stucki
+02:00 - 03:00 | Mireille Wettstein / Tobias Wyss
+03:00 - 04:00 | Andrina Isliker / Kerstin Perren
+04:00 - 05:00 | Salomon Hersche / Stephan Walz / Milena Kuhlmann
+05:00 - 06:00 | Jael Kaeser / Mathias Inniger / Naemi Hari
+06:00 - 07:00 | Sabrina Cookman / Marc Wettstein
+
+-----Gebetsplan fuer Woche 27 - 04.07.2019-----
+23:00 - 00:00 | Bettina Willen / Kerstin Perren
+00:00 - 01:00 | Marc Wettstein / Sabrina Cookman / Mathias Inniger
+01:00 - 02:00 | Andrina Isliker / Stephan Walz
+02:00 - 03:00 | Tobias Wyss / Jael Kaeser
+03:00 - 04:00 | Pascal Schaedeli / Renate Stucki
+04:00 - 05:00 | Mireille Wettstein / Naemi Hari
+05:00 - 06:00 | Salomon Hersche / Deborah Hersche / Benjamin Willen
+06:00 - 07:00 | Julia Baumann / Milena Kuhlmann / Vanessa Baftiu
